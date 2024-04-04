@@ -1,7 +1,5 @@
 # Credit Card Default Prediction
 
-![banner](./visualizations/banner.jpg)
-
 ## Overview
 
 In this project our aim will be to build a model which will help top predict whether a customer will default the payment of his/her credit card so that the banks can understand the characteristics that lead to this outcome. After cleaning the data, handling class imbalance, feature engineering and tuning hyperparameters, the final Random Forest model achieved an F1 score of 0.5412.
