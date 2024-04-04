@@ -8,7 +8,7 @@ In this project our aim will be to build a model which will help top predict whe
 
 ## Data Understanding
 
-The [dataset](https://docs.google.com/spreadsheets/d/16XyUhRVmXtnDR3InryZSvWYNno3zbVD5/edit#gid=1478004691)) contains 30,000 rows of information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
+The [dataset](https://docs.google.com/spreadsheets/d/16XyUhRVmXtnDR3InryZSvWYNno3zbVD5/edit#gid=1478004691) contains 30,000 rows of information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 ![image](https://github.com/ankitagupta010/Credit_card_default_prediction/assets/129590884/bf9a087a-d9a0-45a9-9ebd-39c098bda422)
 
